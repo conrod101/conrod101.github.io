@@ -1,0 +1,97 @@
+body{
+	background-image: url("img/back.jpg");
+	background-color: #cccccc;
+}
+
+
+
+h1 {
+	color: black;
+	font-size: 2.5em;
+	position: relative;
+}
+h4 {
+	color: black;
+	font-size: 1.3em;
+}
+
+
+.mobilesOnly {visibility:hidden;}
+
+h5 {
+	margin:0em 0em;
+	font-size:1.15em;
+}
+
+#myaim {
+	width: 700px;
+	color: green;
+	font-size: 25px;
+	padding-bottom: 2em;
+	font-family: 'VT323', monospace;
+}
+
+img{
+	height: 225px;border: solid white 5px;
+	width:  180px;right:0px;
+	position: absolute;bottom: 0px;
+	transform: rotate(-7.5deg);
+	top: 35px;left: 860px;	
+	border-radius: 50%;
+	
+}
+
+
+.headz {
+	font-family: 'Fredericka the Great', cursive;
+	text-align: bottom ;
+	height: 100px;
+	width: 150px;
+	border-right: 3px dashed grey;
+	font-size: 25px;
+	float: left;clear:left;
+	margin: 5px;
+	font-style: none;
+	color: black;
+	padding: 15px 10px;
+}
+
+
+.tailz {
+	padding-left: 12px;float:left;
+	height: 120px;
+	width: 580px;margin: 3px 12.9px;
+	padding: 5px 5px;
+	font-size: 1.00em;	color: black;
+	font-size:1.15em;
+	font-family: 'Passero One', cursive;
+
+
+}
+
+ul,ol {
+	list-style-type: square;
+	padding: 0;
+	margin-top:0;
+   
+   
+}
+
+
+
+#myskillset, #myskillset1 {
+	height: 150px;
+}
+#mylevel, #myexp {
+	height: 150px;
+}
+#edsec, #edsec1 {
+	height: 100px;
+}
+#funtime, #funtime1{
+	height: 150px;
+}
+
+li {
+	padding-left: 5px;
+}
